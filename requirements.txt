@@ -1,0 +1,6 @@
+gspread==6.0.2
+matplotlib==3.8.1
+pandas==1.5.3
+protobuf==5.26.0
+streamlit==1.30.0
+
